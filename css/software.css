@@ -118,6 +118,7 @@ body {
     }
     .xiazai{
         font-size:0.6rem;
+        border-radius:5px;
     }
 }
 @media screen and (max-width: 430px) {
@@ -132,3 +133,16 @@ body {
         border-radius:5px;
     }
 }
+@media screen and (max-width: 430px) {
+    .h34 {
+        margin-top:3.5%;
+    }
+    .wenzi{
+        font-size:0.4rem;
+    }
+    .xiazai{
+        font-size:0.3rem;
+        border-radius:5px;
+    }
+}
+
